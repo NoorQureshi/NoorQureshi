@@ -55,8 +55,8 @@ approach    : enumerate first · prove impact · then write the detection
 <img src="https://img.shields.io/badge/DFIR-0d1117?style=flat-square&labelColor=161b22" />
 </p>
 
-<sub>Building in the open — including <a href="https://github.com/NoorQureshi/ronin"><b>Ronin</b></a>, a skills
-library that lets AI agents operate like a pentester. More in the pinned repositories below.</sub>
+<sub>Building in the open — including <a href="https://github.com/NoorQureshi/HackAgent"><b>HackAgent</b></a>, a
+library of 100+ hacking skills (16 domains) that lets any AI agent operate like a pentester. More in the pinned repositories below.</sub>
 
 <br/>
 
