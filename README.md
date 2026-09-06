@@ -84,7 +84,7 @@ mindset:  "Enumerate first. Prove impact. Then write the detection."
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NoorQureshi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&icon_color=8B7CF6&title_color=8B7CF6&bg_color=1a1b27" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorQureshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=8B7CF6&bg_color=1a1b27" alt="top langs" />
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoorQureshi&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B7CF6&fire=8B7CF6&currStreakLabel=8B7CF6" alt="streak" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=NoorQureshi&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B7CF6&fire=8B7CF6&currStreakLabel=8B7CF6" alt="streak" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoorQureshi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B7CF6&line=8B7CF6&point=ffffff&area=true" alt="activity graph" />
 
